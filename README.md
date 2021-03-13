@@ -14,5 +14,6 @@ git clone https://gitlab.com/Janam-netizen/sentiment-analysis.git
 ## Usage
 
 ```bash
+cd sentiment-analysis
 python3 app.py
 ```
