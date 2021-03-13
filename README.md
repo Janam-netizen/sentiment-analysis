@@ -7,6 +7,7 @@ Enter the below command inorder to obtain the files inorder to run the web app i
 
 
 ```bash
+git clone https://gitlab.com/Janam-netizen/sentiment-analysis.git
 
 ```
 
